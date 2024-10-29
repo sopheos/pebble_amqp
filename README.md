@@ -1,2 +1,3 @@
-# pebble_amqp
+# Pebble/AMQP
+
 PHP AMQP tools
