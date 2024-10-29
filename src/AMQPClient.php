@@ -1,6 +1,6 @@
 <?php
 
-namespace Agenda\Users;
+namespace Pebble\AMQP;
 
 use PhpAmqpLib\Channel\AMQPChannel;
 use PhpAmqpLib\Connection\AMQPStreamConnection;
